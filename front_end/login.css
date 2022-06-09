@@ -1,0 +1,25 @@
+*{
+    /* background-image: url("job_cover.png"); */
+    background-repeat: no-repeat;
+    background-size:100pc;
+    background-position:11cm 0.5cm;
+    /* background-position:center; */
+    opacity: 90%;
+}
+#login{
+    width:400px;
+    height: 400px;
+    border: 2px rgb(155, 155, 223) solid;
+    position:absolute;
+    top: 25%;
+    left: 35%;
+    background-color: rgb(155, 155, 223);
+    opacity: 90%;
+    border-radius: 20%;
+}
+#content{
+    text-align: center;
+    padding: 80px;
+    opacity: 100%;
+    color: black;
+}
